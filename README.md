@@ -5,7 +5,7 @@
 在terminal输入
 
 ```bash
-$ ssh-keygen -t rsa -C "youremail@xxx.com" -f ~/.shh/id_rsa_snlp_github
+$ ssh-keygen -t rsa -C "youremail@xxx.com" -f ~/.ssh/id_rsa_snlp_github
 ```
 
 摁两次回车（或者也可以自己设置密码）
