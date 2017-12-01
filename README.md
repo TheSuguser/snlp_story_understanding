@@ -1,6 +1,6 @@
 # snlp_story_understanding
 
-##生成shh key
+## 生成shh key
 
 在terminal输入
 
