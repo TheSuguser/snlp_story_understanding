@@ -65,7 +65,7 @@ $ ssh -T git@snlp.github.com
 
 ## Clone 文件
 
-在 snlp-nlp-book/assignments/2017/ 建立文件夹 assignment3
+在 stat-nlp-book/assignments/2017/ 建立文件夹 assignment3
 
 在terminal 中用 ``cd`` 命令到达该目录下，输入
 
