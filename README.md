@@ -1,6 +1,6 @@
 # snlp_story_understanding
 
-##生成shh key
+## 生成shh key
 
 在terminal输入
 
@@ -75,7 +75,11 @@ $ git clone git@snlp.github.com:TheSuguser/snlp_story_understanding.git
 
 
 
+## Git 操作
 
+### 建立自己的分支
+
+从个
 
 
 
